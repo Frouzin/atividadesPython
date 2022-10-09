@@ -1,0 +1,6 @@
+name = str(input('Digite um nome: '))
+# print('Seu Primeiro nome é :', name.split([0]))
+# print('Seu segundo nome é: ', name.split([1]))
+n = name.split()
+print('Seu Primeiro nome é :', n[0])
+print('Seu segundo nome é:', n[-1])

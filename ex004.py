@@ -1,0 +1,6 @@
+a=input('DIGITE ALGO: ')
+print('O tipo Primitivo desse codigo é: ',type(a))
+print('é numerico',a.isnumeric())
+print('é alfabetico ',a.isalpha())
+print('é uma decimal ',a.isdecimal())
+print('esta escrito em minusculo ',a.islower())

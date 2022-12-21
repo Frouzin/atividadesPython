@@ -1,0 +1,4 @@
+# atividadesPython
+<h3>
+ESSE REPOSITÓRIO É PARA ATIVIDADES DO CURSO EM VIDEO EM PYTHON 
+</h3>
